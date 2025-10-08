@@ -1,10 +1,12 @@
 # Heki's Profile
 
-Heki
+![Heki's GitHub stats](https://github-readme-stats.techolve.net/api?username=heki-dm&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&title_color=007F89&icon_color=FFF3BA&text_color=007F89&bg_color=202830&ring_color=007F89)
 
-![Heki's GitHub stats](https://github-readme-stats.techolve.net/api?username=heki-dm&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&title_color=007F89&icon_color=FFF3BA&text_color=007F89&ring_color=007F89)
+![Top Langs](https://github-readme-stats.techolve.net/api/top-langs/?username=heki-dm&layout=compact&show_icons=true&title_color=007F89&icon_color=FFF3BA&text_color=007F89&bg_color=202830&ring_color=007F89)
 
-![Top Langs](https://github-readme-stats.techolve.net/api/top-langs/?username=heki-dm&layout=compact&show_icons=true&title_color=007F89&icon_color=FFF3BA&text_color=007F89&ring_color=007F89)
+## 🎓 Educational Background
+
+- 2020-2023 `Anabuki Computer College` 学校法人　穴吹学園　専門学校穴吹コンピュータカレッジ
 
 ## Skill
 
@@ -129,6 +131,16 @@ Heki
         <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> 
     </a>
 </div>
+
+## Released Package
+
+- [`formula1_data`](https://pub.dev/packages/formula1_data)(2024)
+
+![Gist Card](https://github-readme-stats.techolve.net/api/pin/?username=heki-dm&repo=formula1_data&show_owner=true&show_icons=true&title_color=007F89&icon_color=FFF3BA&text_color=007F89&bg_color=202830&ring_color=007F89)
+
+## 🏅 License
+
+- `Fundamental Information Technology Engineer Examination` - 基本情報技術者試験(FE)
 
 ## SNS
 
