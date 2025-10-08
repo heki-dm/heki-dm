@@ -4,11 +4,17 @@
 
 ![Top Langs](https://github-readme-stats.techolve.net/api/top-langs/?username=heki-dm&layout=compact&show_icons=true&title_color=007F89&icon_color=FFF3BA&text_color=007F89&bg_color=202830&ring_color=007F89)
 
+## Released Package
+
+- [`formula1_data`](https://pub.dev/packages/formula1_data)(2024)
+
+![Gist Card](https://github-readme-stats.techolve.net/api/pin/?username=heki-dm&repo=formula1_data&show_owner=true&show_icons=true&title_color=007F89&icon_color=FFF3BA&text_color=007F89&bg_color=202830&ring_color=007F89)
+
 ## 🎓 Educational Background
 
 - 2020-2023 `Anabuki Computer College` 学校法人　穴吹学園　専門学校穴吹コンピュータカレッジ
 
-## Skill
+## 🧠 Skill
 
 ### 💻 Languages (プログラミング言語)
 
@@ -132,23 +138,23 @@
     </a>
 </div>
 
-## Released Package
-
-- [`formula1_data`](https://pub.dev/packages/formula1_data)(2024)
-
-![Gist Card](https://github-readme-stats.techolve.net/api/pin/?username=heki-dm&repo=formula1_data&show_owner=true&show_icons=true&title_color=007F89&icon_color=FFF3BA&text_color=007F89&bg_color=202830&ring_color=007F89)
-
 ## 🏅 License
 
-- `Fundamental Information Technology Engineer Examination` - 基本情報技術者試験(FE)
+- 基本情報技術者試験(2021)
+- Oracle Java Bronze(2025)
+
+## ❤️ Likes
+
+- Bowling
+- Formula1
 
 ## SNS
 
-<p align="left">
+<div style="display: flex; gap:0.5rem;">
     <a href="https://twitter.com/heki_dm" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heki_dm" height="30" width="40" />
     </a>
     <a href="https://instagram.com/heki_dm" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heki_dm" height="30" width="40" />
     </a>
-</p>
+</div>
