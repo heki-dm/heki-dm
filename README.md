@@ -10,6 +10,12 @@
 
 ![Gist Card](https://github-readme-stats.techolve.net/api/pin/?username=heki-dm&repo=formula1_data&show_owner=true&show_icons=true&title_color=007F89&icon_color=FFF3BA&text_color=007F89&bg_color=202830&ring_color=007F89)
 
+## 🧑🏻‍💻 Personality
+
+I was born in Saitama Prefecture. I later moved to Niigata, Chiba, and Kagawa, spending most of my time in Kagawa. I moved to Osaka for work reasons, and have been there ever since.
+
+I went to Canada for language training when I was in high school, but I'm not very good at English, so I'm sure there are some mistakes. Sorry.
+
 ## 🎓 Educational Background
 
 - 2020-2023 `Anabuki Computer College` 学校法人　穴吹学園　専門学校穴吹コンピュータカレッジ
@@ -141,7 +147,8 @@
 ## 🏅 License
 
 - 基本情報技術者試験(2021)
-- Oracle Java Bronze(2025)
+- Microsoft Office Specialist(2022)
+- Oracle Java Bronze(2024)
 
 ## ❤️ Likes
 
