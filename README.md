@@ -146,8 +146,10 @@ I went to Canada for language training when I was in high school, but I'm not ve
 
 ## 🏅 License
 
+- Web クリエイター能力認定試験　スタンダード(February 2021)
+- Java プログラミング能力認定試験　 2 級(March 2021)
 - 基本情報技術者試験(2021)
-- Microsoft Office Specialist(2022)
+- Microsoft Office Specialist Master(2022)
 - Oracle Java Bronze(2024)
 
 ## ❤️ Likes
