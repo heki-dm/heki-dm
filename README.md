@@ -7,6 +7,7 @@
 ## Released Package
 
 - [`formula1_data`](https://pub.dev/packages/formula1_data)(2024)
+- [`form_creator`](https://pub.dev/packages/form_creator)(2025)
 
 ![Gist Card](https://github-readme-stats.techolve.net/api/pin/?username=heki-dm&repo=formula1_data&show_owner=true&show_icons=true&title_color=007F89&icon_color=FFF3BA&text_color=007F89&bg_color=202830&ring_color=007F89)
 
