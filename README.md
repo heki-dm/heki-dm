@@ -1,21 +1,24 @@
 # Heki's Profile
 
-![Heki's GitHub stats](https://github-readme-stats.techolve.net/api?username=heki-dm&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&title_color=007F89&icon_color=FFF3BA&text_color=007F89&bg_color=202830&ring_color=007F89)
+![Heki's GitHub stats](https://github-stats-extended.techolve.org/api?username=heki-dm&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&title_color=007F89&icon_color=FFF3BA&text_color=007F89&bg_color=202830&ring_color=007F89)
 
-![Top Langs](https://github-readme-stats.techolve.net/api/top-langs/?username=heki-dm&layout=compact&show_icons=true&title_color=007F89&icon_color=FFF3BA&text_color=007F89&bg_color=202830&ring_color=007F89)
+![Top Langs](https://github-stats-extended.techolve.org/api/top-langs/?username=heki-dm&layout=compact&show_icons=true&title_color=007F89&icon_color=FFF3BA&text_color=007F89&bg_color=202830&ring_color=007F89)
 
 ## Released Package
 
 - [`formula1_data`](https://pub.dev/packages/formula1_data)(2024)
 - [`form_creator`](https://pub.dev/packages/form_creator)(2025)
 
-![Gist Card](https://github-readme-stats.techolve.net/api/pin/?username=heki-dm&repo=formula1_data&show_owner=true&show_icons=true&title_color=007F89&icon_color=FFF3BA&text_color=007F89&bg_color=202830&ring_color=007F89)
+![Gist Card](https://github-stats-extended.techolve.org/api/pin/?username=heki-dm&repo=formula1_data&show_owner=true&show_icons=true&title_color=007F89&icon_color=FFF3BA&text_color=007F89&bg_color=202830&ring_color=007F89)
+![Gist Card](https://github-stats-extended.techolve.org/api/pin/?username=techolve&repo=form_creator&show_owner=true&show_icons=true&title_color=007F89&icon_color=FFF3BA&text_color=007F89&bg_color=202830&ring_color=007F89)
 
 ## 🧑🏻‍💻 Personality
 
 I was born in Saitama Prefecture. I later moved to Niigata, Chiba, and Kagawa, spending most of my time in Kagawa. I moved to Osaka for work reasons, and have been there ever since.
 
 I went to Canada for language training when I was in high school, but I'm not very good at English, so I'm sure there are some mistakes. Sorry.
+
+I love Markdown documents! I dislike Microsoft Office! Please use text-based documents for LLM.
 
 ## 🎓 Educational Background
 
@@ -156,12 +159,14 @@ I went to Canada for language training when I was in high school, but I'm not ve
 ## ❤️ Likes
 
 - Bowling
-- Formula1
+- Motor Sports
+  - Formula1&trade;
+  - [SUPER FORMULA](https://superformula.net/sf3/?lang=ja)
 
 ## SNS
 
 <div style="display: flex; gap:0.5rem;">
-    <a href="https://twitter.com/heki_dm" target="blank">
+    <a href="https://x.com/heki_dm" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heki_dm" height="30" width="40" />
     </a>
     <a href="https://instagram.com/heki_dm" target="blank">
