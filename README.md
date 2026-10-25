@@ -1,10 +1,28 @@
-# Heki's Profile
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:202830,100:007F89&height=200&section=header&text=Kakeru%20Uemura&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=@heki-dm&descAlignY=58&descSize=20" width="100%" alt="header" />
 
-![Heki's GitHub stats](https://github-stats-extended.techolve.org/api?username=heki-dm&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=007F89&center=true&vCenter=true&width=600&lines=Full-stack+Engineer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Flutter+%2F+Next.js+%2F+Django+REST+Framework;Exploring+FastAPI+%26+FastMCP;Owner+of+%40techolve" alt="Typing SVG" />
+</p>
 
-![Top Langs](https://github-stats-extended.techolve.org/api/top-langs/?username=heki-dm&layout=compact&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89)
+<p align="center">
+  <a href="https://x.com/heki_dm"><img src="https://img.shields.io/badge/X-heki__dm-202830?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/k-uemura/"><img src="https://img.shields.io/badge/LinkedIn-k--uemura-007F89?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/heki_dm"><img src="https://img.shields.io/badge/Instagram-heki__dm-202830?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://techolve.net"><img src="https://img.shields.io/badge/techolve.net-007F89?style=for-the-badge&logo=googlechrome&logoColor=white" alt="techolve.net" /></a>
+</p>
 
-## Released Package
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.techolve.org/api?username=heki-dm&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89" height="195" alt="Heki's GitHub stats" />
+  <img src="https://github-stats-extended.techolve.org/api/top-langs/?username=heki-dm&layout=compact&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89" height="195" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=heki-dm&background=202830&ring=007F89&fire=007F89&currStrNum=ffffff&sideNums=ffffff&currStrLabel=007F89&sideLabels=007F89&dates=8b949e&stroke=007F89&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 📦 Released Package
 
 - [`formula1_data`](https://pub.dev/packages/formula1_data)(2024)
 - [`form_creator`](https://pub.dev/packages/form_creator)(2025)
@@ -12,11 +30,13 @@
 - [`eq-muster`](https://github.com/techolve/eq-muster)(2026) / [Docker Hub](https://hub.docker.com/r/heki0824/eq-muster)
 - [`ramen-api-bruno`](https://github.com/heki-dm/ramen-api-bruno)(2026)
 
-![Gist Card](https://github-stats-extended.techolve.org/api/pin/?username=heki-dm&repo=formula1_data&show_owner=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89)
-![Gist Card](https://github-stats-extended.techolve.org/api/pin/?username=techolve&repo=form_creator&show_owner=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89)
-![Gist Card](https://github-stats-extended.techolve.org/api/pin/?username=techolve&repo=vectana&show_owner=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89)
-![Gist Card](https://github-stats-extended.techolve.org/api/pin/?username=techolve&repo=eq-muster&show_owner=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89)
-![Gist Card](https://github-stats-extended.techolve.org/api/pin/?username=heki-dm&repo=ramen-api-bruno&show_owner=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89)
+<p align="center">
+  <a href="https://github.com/techolve/formula1_data"><img src="https://github-stats-extended.techolve.org/api/pin/?username=techolve&repo=formula1_data&show_owner=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89" width="400" alt="formula1_data" /></a>
+  <a href="https://github.com/techolve/form_creator"><img src="https://github-stats-extended.techolve.org/api/pin/?username=techolve&repo=form_creator&show_owner=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89" width="400" alt="form_creator" /></a>
+  <a href="https://github.com/techolve/vectana"><img src="https://github-stats-extended.techolve.org/api/pin/?username=techolve&repo=vectana&show_owner=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89" width="400" alt="vectana" /></a>
+  <a href="https://github.com/techolve/eq-muster"><img src="https://github-stats-extended.techolve.org/api/pin/?username=techolve&repo=eq-muster&show_owner=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89" width="400" alt="eq-muster" /></a>
+  <a href="https://github.com/heki-dm/ramen-api-bruno"><img src="https://github-stats-extended.techolve.org/api/pin/?username=heki-dm&repo=ramen-api-bruno&show_owner=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89" width="400" alt="ramen-api-bruno" /></a>
+</p>
 
 ## 🧑🏻‍💻 Personality
 
@@ -34,125 +54,19 @@ I love Markdown documents! I dislike Microsoft Office! Please use text-based doc
 
 ### 💻 Languages (プログラミング言語)
 
-<div style="display: flex; gap:1rem;">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-</div>
+<img src="https://skillicons.dev/icons?i=java,ts,js,py,dart,php,html,css&theme=dark" alt="Languages" />
 
 ### 🌐 Frontend / Frameworks (フロントエンド / フレームワーク)
 
-<div style="display: flex; gap:1rem;">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-    </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-    </a>
-    <a href="https://symfony.com" target="_blank" rel="noreferrer">
-        <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-    </a>
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-    </a>
-</div>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,spring,django,fastapi,symfony,bootstrap,tailwind,sass&theme=dark" alt="Frameworks" />
 
 ### ☁️ Cloud & Database (クラウド / データベース)
 
-<div style="display: flex; gap:1rem;">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    </a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-    </a>
-</div>
+<img src="https://skillicons.dev/icons?i=aws,gcp,firebase,cloudflare,mysql,postgres,sqlite&theme=dark" alt="Cloud and Database" />
 
 ### 🛠️ Tools & Others (ツール / その他)
 
-<div style="display: flex; gap:1rem;">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-    </a>
-    <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/>
-    </a>
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,nodejs,nginx,linux,figma,arduino&theme=dark" alt="Tools" />
 
 ## 🏅 License
 
@@ -169,13 +83,12 @@ I love Markdown documents! I dislike Microsoft Office! Please use text-based doc
   - Formula1&trade;
   - [SUPER FORMULA](https://superformula.net/sf3/?lang=ja)
 
-## SNS
+## 🐍 Contribution
 
-<div style="display: flex; gap:0.5rem;">
-    <a href="https://x.com/heki_dm" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heki_dm" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/heki_dm" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heki_dm" height="30" width="40" />
-    </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heki-dm/heki-dm/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heki-dm/heki-dm/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/heki-dm/heki-dm/output/github-snake.svg" />
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007F89,100:202830&height=120&section=footer" width="100%" alt="footer" />
