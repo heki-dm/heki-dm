@@ -56,9 +56,13 @@ I love Markdown documents! I dislike Microsoft Office! Please use text-based doc
 
 <img src="https://skillicons.dev/icons?i=java,ts,js,py,dart,php,html,css&theme=dark" alt="Languages" />
 
-### 🌐 Frontend / Frameworks (フロントエンド / フレームワーク)
+### 🌐 Frontend / Mobile (フロントエンド / モバイル)
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,spring,django,fastapi,symfony,bootstrap,tailwind,sass&theme=dark" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,bootstrap,sass&theme=dark" alt="Frontend and Mobile" />
+
+### ⚙️ Backend (バックエンド)
+
+<img src="https://skillicons.dev/icons?i=django,fastapi,spring,symfony,nodejs&theme=dark" alt="Backend" />
 
 ### ☁️ Cloud & Database (クラウド / データベース)
 
@@ -66,7 +70,7 @@ I love Markdown documents! I dislike Microsoft Office! Please use text-based doc
 
 ### 🛠️ Tools & Others (ツール / その他)
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,nodejs,nginx,linux,figma,arduino&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,nginx,linux,figma,arduino&theme=dark" alt="Tools" />
 
 ## 🏅 License
 
