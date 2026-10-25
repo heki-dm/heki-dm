@@ -75,12 +75,13 @@ I love Markdown documents! I dislike Microsoft Office! Please use text-based doc
 - 基本情報技術者試験(2021)
 - Microsoft Office Specialist Master(2022)
 - Oracle Java Bronze(2024)
+- 3級ファイナンシャル・プランニング技能検定(2026)
 
 ## ❤️ Likes
 
 - Bowling
 - Motor Sports
-  - Formula1&trade;
+  - [Formula1&trade;](https://www.formula1.com/)
   - [SUPER FORMULA](https://superformula.net/sf3/?lang=ja)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007F89,100:202830&height=120&section=footer" width="100%" alt="footer" />
