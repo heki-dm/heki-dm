@@ -83,12 +83,4 @@ I love Markdown documents! I dislike Microsoft Office! Please use text-based doc
   - Formula1&trade;
   - [SUPER FORMULA](https://superformula.net/sf3/?lang=ja)
 
-## 🐍 Contribution
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heki-dm/heki-dm/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heki-dm/heki-dm/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/heki-dm/heki-dm/output/github-snake.svg" />
-</picture>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007F89,100:202830&height=120&section=footer" width="100%" alt="footer" />
