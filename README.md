@@ -1,16 +1,16 @@
 # Heki's Profile
 
-![Heki's GitHub stats](https://github-stats-extended.techolve.org/api?username=heki-dm&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&title_color=007F89&icon_color=FFF3BA&text_color=007F89&bg_color=202830&ring_color=007F89)
+![Heki's GitHub stats](https://github-stats-extended.techolve.org/api?username=heki-dm&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89)
 
-![Top Langs](https://github-stats-extended.techolve.org/api/top-langs/?username=heki-dm&layout=compact&show_icons=true&title_color=007F89&icon_color=FFF3BA&text_color=007F89&bg_color=202830&ring_color=007F89)
+![Top Langs](https://github-stats-extended.techolve.org/api/top-langs/?username=heki-dm&layout=compact&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89)
 
 ## Released Package
 
 - [`formula1_data`](https://pub.dev/packages/formula1_data)(2024)
 - [`form_creator`](https://pub.dev/packages/form_creator)(2025)
 
-![Gist Card](https://github-stats-extended.techolve.org/api/pin/?username=heki-dm&repo=formula1_data&show_owner=true&show_icons=true&title_color=007F89&icon_color=FFF3BA&text_color=007F89&bg_color=202830&ring_color=007F89)
-![Gist Card](https://github-stats-extended.techolve.org/api/pin/?username=techolve&repo=form_creator&show_owner=true&show_icons=true&title_color=007F89&icon_color=FFF3BA&text_color=007F89&bg_color=202830&ring_color=007F89)
+![Gist Card](https://github-stats-extended.techolve.org/api/pin/?username=heki-dm&repo=formula1_data&show_owner=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89)
+![Gist Card](https://github-stats-extended.techolve.org/api/pin/?username=techolve&repo=form_creator&show_owner=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89)
 
 ## 🧑🏻‍💻 Personality
 
