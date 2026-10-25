@@ -8,9 +8,15 @@
 
 - [`formula1_data`](https://pub.dev/packages/formula1_data)(2024)
 - [`form_creator`](https://pub.dev/packages/form_creator)(2025)
+- [`vectana`](https://github.com/techolve/vectana)(2026) / [Docker Hub](https://hub.docker.com/r/heki0824/vectana)
+- [`eq-muster`](https://github.com/techolve/eq-muster)(2026) / [Docker Hub](https://hub.docker.com/r/heki0824/eq-muster)
+- [`ramen-api-bruno`](https://github.com/heki-dm/ramen-api-bruno)(2026)
 
 ![Gist Card](https://github-stats-extended.techolve.org/api/pin/?username=heki-dm&repo=formula1_data&show_owner=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89)
 ![Gist Card](https://github-stats-extended.techolve.org/api/pin/?username=techolve&repo=form_creator&show_owner=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89)
+![Gist Card](https://github-stats-extended.techolve.org/api/pin/?username=techolve&repo=vectana&show_owner=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89)
+![Gist Card](https://github-stats-extended.techolve.org/api/pin/?username=techolve&repo=eq-muster&show_owner=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89)
+![Gist Card](https://github-stats-extended.techolve.org/api/pin/?username=heki-dm&repo=ramen-api-bruno&show_owner=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89)
 
 ## 🧑🏻‍💻 Personality
 
