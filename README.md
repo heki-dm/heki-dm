@@ -14,12 +14,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.techolve.org/api?username=heki-dm&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89" height="195" alt="Heki's GitHub stats" />
-  <img src="https://github-stats-extended.techolve.org/api/top-langs/?username=heki-dm&layout=compact&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89" height="195" alt="Top Langs" />
+  <img src="https://github-stats-extended.techolve.org/api?username=heki-dm&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89" height="280" alt="Heki's GitHub stats" />
+  <img src="https://github-stats-extended.techolve.org/api/top-langs/?username=heki-dm&layout=normal&langs_count=6&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89" height="280" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=heki-dm&background=202830&ring=007F89&fire=007F89&currStrNum=ffffff&sideNums=ffffff&currStrLabel=007F89&sideLabels=007F89&dates=8b949e&stroke=007F89&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=heki-dm&date_format=%5BY.%5Dn.j&background=202830&ring=007F89&fire=007F89&currStrNum=ffffff&sideNums=ffffff&currStrLabel=007F89&sideLabels=007F89&dates=8b949e&stroke=007F89&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 📦 Released Package
@@ -31,11 +31,11 @@
 - [`ramen-api-bruno`](https://github.com/heki-dm/ramen-api-bruno)(2026)
 
 <p align="center">
-  <a href="https://github.com/techolve/formula1_data"><img src="https://github-stats-extended.techolve.org/api/pin/?username=techolve&repo=formula1_data&show_owner=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89" width="400" alt="formula1_data" /></a>
-  <a href="https://github.com/techolve/form_creator"><img src="https://github-stats-extended.techolve.org/api/pin/?username=techolve&repo=form_creator&show_owner=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89" width="400" alt="form_creator" /></a>
-  <a href="https://github.com/techolve/vectana"><img src="https://github-stats-extended.techolve.org/api/pin/?username=techolve&repo=vectana&show_owner=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89" width="400" alt="vectana" /></a>
-  <a href="https://github.com/techolve/eq-muster"><img src="https://github-stats-extended.techolve.org/api/pin/?username=techolve&repo=eq-muster&show_owner=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89" width="400" alt="eq-muster" /></a>
-  <a href="https://github.com/heki-dm/ramen-api-bruno"><img src="https://github-stats-extended.techolve.org/api/pin/?username=heki-dm&repo=ramen-api-bruno&show_owner=true&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89" width="400" alt="ramen-api-bruno" /></a>
+  <a href="https://github.com/techolve/formula1_data"><img src="https://github-stats-extended.techolve.org/api/pin/?username=techolve&repo=formula1_data&show_owner=true&description_lines_count=2&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89" width="48%" alt="formula1_data" /></a>
+  <a href="https://github.com/techolve/form_creator"><img src="https://github-stats-extended.techolve.org/api/pin/?username=techolve&repo=form_creator&show_owner=true&description_lines_count=2&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89" width="48%" alt="form_creator" /></a>
+  <a href="https://github.com/techolve/vectana"><img src="https://github-stats-extended.techolve.org/api/pin/?username=techolve&repo=vectana&show_owner=true&description_lines_count=2&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89" width="48%" alt="vectana" /></a>
+  <a href="https://github.com/techolve/eq-muster"><img src="https://github-stats-extended.techolve.org/api/pin/?username=techolve&repo=eq-muster&show_owner=true&description_lines_count=2&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89" width="48%" alt="eq-muster" /></a>
+  <a href="https://github.com/heki-dm/ramen-api-bruno"><img src="https://github-stats-extended.techolve.org/api/pin/?username=heki-dm&repo=ramen-api-bruno&show_owner=true&description_lines_count=2&show_icons=true&title_color=007F89&icon_color=fff&text_color=007F89&bg_color=202830&ring_color=007F89" width="48%" alt="ramen-api-bruno" /></a>
 </p>
 
 ## 🧑🏻‍💻 Personality
