@@ -8,7 +8,7 @@
   <a href="https://x.com/heki_dm"><img src="https://img.shields.io/badge/X-heki__dm-202830?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.linkedin.com/in/heki-dm/"><img src="https://img.shields.io/badge/LinkedIn-heki--dm-007F89?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/heki_dm"><img src="https://img.shields.io/badge/Instagram-heki__dm-202830?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://techolve.net"><img src="https://img.shields.io/badge/techolve.net-007F89?style=for-the-badge&logo=googlechrome&logoColor=white" alt="techolve.net" /></a>
+  <a href="https://techolve.org"><img src="https://img.shields.io/badge/techolve.org-007F89?style=for-the-badge&logo=googlechrome&logoColor=white" alt="techolve.org" /></a>
 </p>
 
 ## 📊 GitHub Stats
